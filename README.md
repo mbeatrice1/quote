@@ -1,7 +1,7 @@
 
 # Author
 
-Francine Uwizeyimana
+Beatrice Uwamahoro
 # Quote
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
@@ -32,6 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Copyrights
 
-Francine Uwizeyimana@2021
+Beatrice Uwamahoro@2020
 # Quote
 
